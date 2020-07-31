@@ -1,5 +1,15 @@
-### Hi there 👋
+Hi. I’m Robert, known online as ylee. I'm a software engineer who is very active in the [Bodhi Linux](https://www.bodhilinux.com/) Community. 
 
+- 🔭 I’m currently working on improving Moksha, fixing broken e17 modules, the Bodhi Linux 6.0 release, and some programming tutorials.
+- 🌱 I’m currently learning more about EFL, and json-c.
+- 👯 I’m looking to collaborate on documentation for [Terminology](https://www.enlightenment.org/about-terminology.md), [Moksha](http://www.bodhilinux.com/moksha-desktop/), and [EFL](https://www.enlightenment.org/develop/legacy/api/c/start) programming.
+- 🤔 I’m looking for help with everything Bodhi Linux related, esp developers, graphic artists and translators.
+- 💬 Ask me about anything Bodhi related, my mathemtaical interests, or programming in general.
+- 🛠 My favorite language is Python although I do alot of programming C. I know vairable amounts of various other languages naturally.
+- 📫 How to reach me: My email is public, and I am in the [Bodhi channel](https://discord.com/invite/pvB7MSf) of Discord when online. May or may not be on IRC.
+- 😄 Pronouns: He/him
+- ⚡ Fun facts: I am a brick mason, vegetarian, and started programming on punched cards and paper tape.
+- ☕ You can support my work by buying me a [cup of coffee](https://www.paypal.me/rbtylee)
 <!--
 **rbtylee/rbtylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
