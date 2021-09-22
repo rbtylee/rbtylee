@@ -1,7 +1,7 @@
 Hi. I’m Robert, known online as ylee. I'm a software engineer who is very active in the [Bodhi Linux](https://www.bodhilinux.com/) Community. 
 
-- 🔭 I’m currently working on improving Moksha, fixing broken e17 modules, the Bodhi Linux 6.0 release, and some programming tutorials.
-- 🌱 I’m currently learning more about EFL, and json-c.
+- 🔭 I’m currently working on improving Moksha, fixing broken e17 modules, the Bodhi Linux 6.1 release, some programming tutorials, and more.
+- 🌱 I’m always trying to learning more about EFL, and whatever other programming topic interest me or seems necessary for Bodhi development.
 - 👯 I’m looking to collaborate on documentation for [Terminology](https://www.enlightenment.org/about-terminology.md), [Moksha](http://www.bodhilinux.com/moksha-desktop/), and [EFL](https://www.enlightenment.org/develop/legacy/api/c/start) programming.
 - 🤔 I’m looking for help with everything Bodhi Linux related, esp developers, graphic artists and translators.
 - 💬 Ask me about anything Bodhi related, my mathemtaical interests, or programming in general.
