@@ -1,10 +1,10 @@
-Hi. I’m Robert, known online as ylee. I'm a software engineer who is very active in the [Bodhi Linux](https://www.bodhilinux.com/) Community. 
+Hi. I’m Robert, known online as ylee. I'm a very active software engineer in the [Bodhi Linux](https://www.bodhilinux.com/) Community. 
 
-- 🔭 I’m currently working on improving Moksha, fixing broken e17 modules, the Bodhi Linux 7.0 release, some programming tutorials, and more.
-- 🌱 I’m always trying to learning more about EFL, and whatever other programming topic interest me or seems necessary for Bodhi development.
+- 🔭 I’m working on improving Moksha, fixing broken e17 modules, the Bodhi Linux 7.0 release, some programming tutorials, and more.
+- 🌱 I’m always trying to learn more about EFL, and whatever other programming topic interests me or seems necessary for Bodhi development.
 - 👯 I’m looking to collaborate on documentation for [Terminology](https://www.enlightenment.org/about-terminology.md), [Moksha](http://www.bodhilinux.com/moksha-desktop/), and [EFL](https://www.enlightenment.org/develop/legacy/api/c/start) programming.
-- 🤔 I’m looking for help with everything Bodhi Linux related, esp developers, graphic artists and translators.
-- 💬 Ask me about anything Bodhi related, my mathemtaical interests, or programming in general.
+- 🤔 I’m looking for help with everything Bodhi Linux related, especially developers, graphic artists, and translators.
+- 💬 Ask me about anything Bodhi related, my mathematical interests, or programming in general.
 - 🛠 My favorite language is Python although I do alot of programming in C. I know variable amounts of various other languages naturally.
 - 📫 How to reach me: My email is public, and I am in the [Bodhi channel](https://discord.com/invite/pvB7MSf) of Discord when online. May or may not be on IRC.
 - 😄 Pronouns: He/him
