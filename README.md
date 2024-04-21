@@ -9,7 +9,7 @@ Hi. I’m Robert, known online as ylee. I'm a very active software engineer in t
 - 📫 How to reach me: My email is public, and I am in the [Bodhi channel](https://discord.com/invite/pvB7MSf) of Discord when online. May or may not be on IRC.
 - 😄 Pronouns: He/him
 - ⚡ Fun facts: I am a brick mason, vegetarian, and started programming on punched cards and paper tape.
-- ☕ You can support my work by buying me a [cup of coffee](https://www.paypal.me/rbtylee)
+- ☕ You can support Bodhi Linux via [paypal](https://www.paypal.me/rbtylee) or become a member of our [Patreon Page](https://www.patreon.com/bodhilinux)
 <!--
 **rbtylee/rbtylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
